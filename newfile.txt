@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is for gitbranch2 updated
+=======
+this is for gitbranch2 updated
+>>>>>>> 34085552aebe4b9d758347372c80255c276d2c1a
